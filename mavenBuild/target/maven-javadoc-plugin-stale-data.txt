@@ -1,0 +1,26 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-13.0.2\bin\javadoc.exe" @options @packages"
+C:\Users\jorda\project\mavenBuild\target\apidocs\allclasses-index.html = 1587177744876
+C:\Users\jorda\project\mavenBuild\target\apidocs\allpackages-index.html = 1587177744887
+C:\Users\jorda\project\mavenBuild\target\apidocs\constant-values.html = 1587177744293
+C:\Users\jorda\project\mavenBuild\target\apidocs\deprecated-list.html = 1587177744777
+C:\Users\jorda\project\mavenBuild\target\apidocs\element-list = 1587177744065
+C:\Users\jorda\project\mavenBuild\target\apidocs\help-doc.html = 1587177744905
+C:\Users\jorda\project\mavenBuild\target\apidocs\index-all.html = 1587177744862
+C:\Users\jorda\project\mavenBuild\target\apidocs\index.html = 1587177744788
+C:\Users\jorda\project\mavenBuild\target\apidocs\member-search-index.js = 1587177744844
+C:\Users\jorda\project\mavenBuild\target\apidocs\member-search-index.zip = 1587177744857
+C:\Users\jorda\project\mavenBuild\target\apidocs\options = 1587177742460
+C:\Users\jorda\project\mavenBuild\target\apidocs\overview-summary.html = 1587177744897
+C:\Users\jorda\project\mavenBuild\target\apidocs\overview-tree.html = 1587177744763
+C:\Users\jorda\project\mavenBuild\target\apidocs\package-search-index.js = 1587177744819
+C:\Users\jorda\project\mavenBuild\target\apidocs\package-search-index.zip = 1587177744830
+C:\Users\jorda\project\mavenBuild\target\apidocs\packages = 1587177742461
+C:\Users\jorda\project\mavenBuild\target\apidocs\script.js = 1587177744920
+C:\Users\jorda\project\mavenBuild\target\apidocs\search.js = 1587177744930
+C:\Users\jorda\project\mavenBuild\target\apidocs\serialized-form.html = 1587177744305
+C:\Users\jorda\project\mavenBuild\target\apidocs\stylesheet.css = 1587177744915
+C:\Users\jorda\project\mavenBuild\target\apidocs\type-search-index.js = 1587177744834
+C:\Users\jorda\project\mavenBuild\target\apidocs\type-search-index.zip = 1587177744839

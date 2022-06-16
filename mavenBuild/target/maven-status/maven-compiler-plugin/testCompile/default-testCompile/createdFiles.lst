@@ -1,0 +1,11 @@
+gameLoadingTest\switchToStringTest.class
+character\TestCollisionInteractions.class
+character\EnemyTest.class
+character\EnemyListTest.class
+character\EntityTest.class
+character\Enemy2Test.class
+character\EnemyListUpdateTest.class
+ImageTest\ImageTest.class
+tile\wallTileTest.class
+character\CollisionTest.class
+character\AnimatorTest.class
